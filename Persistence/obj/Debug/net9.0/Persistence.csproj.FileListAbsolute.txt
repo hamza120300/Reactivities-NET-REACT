@@ -13,3 +13,4 @@ C:\Users\amabdallah\OneDrive - Ejada Systems Company\Desktop\Courses\DontNet & R
 C:\Users\amabdallah\OneDrive - Ejada Systems Company\Desktop\Courses\DontNet & React\Reactivities\Persistence\obj\Debug\net9.0\refint\Persistence.dll
 C:\Users\amabdallah\OneDrive - Ejada Systems Company\Desktop\Courses\DontNet & React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.pdb
 C:\Users\amabdallah\OneDrive - Ejada Systems Company\Desktop\Courses\DontNet & React\Reactivities\Persistence\obj\Debug\net9.0\ref\Persistence.dll
+C:\Users\amabdallah\OneDrive - Ejada Systems Company\Desktop\Courses\DontNet & React\Reactivities\Persistence\obj\Debug\net9.0\Persistence.sourcelink.json
